@@ -1,0 +1,6 @@
+Method,Mean Epochs,Std Epochs,Mean Accuracy,Std Accuracy,Epoch Reduction (%),Accuracy vs Full
+Full Training,100,0,0.9782,0.001,0,0
+Early Stopping,20.9,4.93,0.9769,0.0016,79.1,-0.0013
+Secretary 37%,56.8,19.14,0.9784,0.0009,43.2,0.0001
+Secretary 50%,67.6,17.82,0.9784,0.0014,32.4,0.0001
+Secretary 75%,93.7,8.37,0.9784,0.0014,6.3,0.0002
