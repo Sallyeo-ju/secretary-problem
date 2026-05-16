@@ -3,7 +3,7 @@ This is a personal project utilizing AI to make a simulation using a fun problem
 The Paper itself is titled "An Empirical Investigation of Secretary-Inspired Stopping Rules for Neural Networks" -still pending
 
 What it does:
-Treats each training epoch as a candidate in the Secretary Problem. Observe the first K% of epochs, then stop at the first epoch that beats the observed best — no patience parameter needed.
+Treats each training epoch as a candidate in the Secretary Problem. Observe the first K% of epochs, then stop at the first epoch that beats the observed best - no patience parameter needed.
 
 Methods:
 Full Training (100 epochs)
